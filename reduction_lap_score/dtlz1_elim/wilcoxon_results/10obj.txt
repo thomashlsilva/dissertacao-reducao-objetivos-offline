@@ -1,0 +1,60 @@
+
+Number of objectives: 10
+
+
+IGD+ mean:  0.07785219051625247
+IGD+ Wilcoxon rank-elim test:  RanksumsResult(statistic=array([0.]), pvalue=array([1.]))
+igd_arr and igd_orig are identical.
+
+
+Epsilon-indicator mean:  0.16957127384267295
+Epsilon-indicator Wilcoxon rank-elim test:  RanksumsResult(statistic=array([0.]), pvalue=array([1.]))
+eind_arr and eind_orig are identical.
+
+Number of objectives: 8
+
+
+IGD+ mean:  0.6494856492306604
+IGD+ Wilcoxon rank-elim test:  RanksumsResult(statistic=array([5.27012757]), pvalue=array([1.36328977e-07]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.9347585961366649
+Epsilon-indicator Wilcoxon rank-elim test:  RanksumsResult(statistic=array([5.19466035]), pvalue=array([2.05093936e-07]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 6
+
+
+IGD+ mean:  1.2778359792656653
+IGD+ Wilcoxon rank-elim test:  RanksumsResult(statistic=array([5.52168497]), pvalue=array([3.35764095e-08]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  1.3857539545705027
+Epsilon-indicator Wilcoxon rank-elim test:  RanksumsResult(statistic=array([5.52168497]), pvalue=array([3.35764095e-08]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 4
+
+
+IGD+ mean:  0.6876412071471807
+IGD+ Wilcoxon rank-elim test:  RanksumsResult(statistic=array([5.54684071]), pvalue=array([2.90877514e-08]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.8538077665507148
+Epsilon-indicator Wilcoxon rank-elim test:  RanksumsResult(statistic=array([5.52168497]), pvalue=array([3.35764095e-08]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 2
+
+
+IGD+ mean:  1.8945850531179846
+IGD+ Wilcoxon rank-elim test:  RanksumsResult(statistic=array([5.52168497]), pvalue=array([3.35764095e-08]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  1.6105127503771735
+Epsilon-indicator Wilcoxon rank-elim test:  RanksumsResult(statistic=array([5.24497183]), pvalue=array([1.56306209e-07]))
+eind_arr and eind_orig are not identical.

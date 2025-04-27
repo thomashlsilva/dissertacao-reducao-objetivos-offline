@@ -19,11 +19,11 @@ img/
 *.png
 
 # Redução de dimensionalidade - Laplacian Score
-reduction_lap_score/*
+reduction_lap_score/*.csv
 !reduction_lap_score/*.py
 
 # Redução de dimensionalidade - PCA
-reduction_pca/*
+reduction_pca/*.csv
 !reduction_pca/*.py
 !reduction_pca/eigenvectors/
 

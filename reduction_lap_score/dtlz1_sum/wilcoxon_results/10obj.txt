@@ -1,0 +1,60 @@
+
+Number of objectives: 10
+
+
+IGD+ mean:  0.1597679734150571
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([0.]), pvalue=array([1.]))
+igd_arr and igd_orig are identical.
+
+
+Epsilon-indicator mean:  0.17064217318743585
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([0.]), pvalue=array([1.]))
+eind_arr and eind_orig are identical.
+
+Number of objectives: 8
+
+
+IGD+ mean:  0.13301163784779094
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-1.29552062]), pvalue=array([0.19514069]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.16250671604248465
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-0.06288935]), pvalue=array([0.94985462]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 6
+
+
+IGD+ mean:  0.10436340985424535
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-2.65393059]), pvalue=array([0.00795602]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.14787569047201451
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-0.81756156]), pvalue=array([0.41360759]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 4
+
+
+IGD+ mean:  0.06257726519196402
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-4.89279147]), pvalue=array([9.94157289e-07]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.11280069854356498
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-3.03126669]), pvalue=array([0.0024353]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 2
+
+
+IGD+ mean:  0.06596872313570279
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-4.5406111]), pvalue=array([5.60914112e-06]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.12192201377039877
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-2.42752893]), pvalue=array([0.01520207]))
+eind_arr and eind_orig are not identical.

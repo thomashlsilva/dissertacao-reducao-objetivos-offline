@@ -1,0 +1,60 @@
+
+Number of objectives: 10
+
+
+IGD+ mean:  0.7500166437560454
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([0.]), pvalue=array([1.]))
+igd_arr and igd_orig are identical.
+
+
+Epsilon-indicator mean:  0.891640648774146
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([0.]), pvalue=array([1.]))
+eind_arr and eind_orig are identical.
+
+Number of objectives: 8
+
+
+IGD+ mean:  0.6693100438961543
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-0.26413527]), pvalue=array([0.79167569]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.904054161804169
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([0.74209434]), pvalue=array([0.45803018]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 6
+
+
+IGD+ mean:  0.5038426619851148
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-1.2200534]), pvalue=array([0.22244463]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.792398666528751
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([0.16351231]), pvalue=array([0.87011508]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 4
+
+
+IGD+ mean:  0.3669046953743941
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-2.95579947]), pvalue=array([0.0031186]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.8526086546835514
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([0.968496]), pvalue=array([0.33279672]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 2
+
+
+IGD+ mean:  0.4699317209321828
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([1.32067636]), pvalue=array([0.1866093]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.7446174666356017
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([1.37098784]), pvalue=array([0.17037875]))
+eind_arr and eind_orig are not identical.

@@ -1,0 +1,48 @@
+
+Number of objectives: 5
+
+
+IGD+ mean:  0.24754420611971664
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([0.]), pvalue=array([1.]))
+igd_arr and igd_orig are identical.
+
+
+Epsilon-indicator mean:  0.857979927824666
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([0.]), pvalue=array([1.]))
+eind_arr and eind_orig are identical.
+
+Number of objectives: 4
+
+
+IGD+ mean:  0.20121982068812483
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-3.25766835]), pvalue=array([0.00112332]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.8816771048111918
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([1.42129932]), pvalue=array([0.15522976]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 3
+
+
+IGD+ mean:  0.33515232216605817
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([3.45891427]), pvalue=array([0.00054236]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.956962364642785
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([2.20112727]), pvalue=array([0.02772702]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 2
+
+
+IGD+ mean:  0.5260811243977982
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([5.54684071]), pvalue=array([2.90877514e-08]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.8652264389991295
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([2.42752893]), pvalue=array([0.01520207]))
+eind_arr and eind_orig are not identical.

@@ -1,0 +1,60 @@
+
+Number of objectives: 10
+
+
+IGD+ mean:  1.9907174646568981
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([0.]), pvalue=array([1.]))
+igd_arr and igd_orig are identical.
+
+
+Epsilon-indicator mean:  6.415004541104226
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([0.]), pvalue=array([1.]))
+eind_arr and eind_orig are identical.
+
+Number of objectives: 8
+
+
+IGD+ mean:  1.0115748598904868
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-5.44621775]), pvalue=array([5.1452144e-08]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  3.5018035050720395
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-5.42106201]), pvalue=array([5.9246003e-08]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 6
+
+
+IGD+ mean:  0.8131653500427882
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-5.27012757]), pvalue=array([1.36328977e-07]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  2.2225831937574654
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-5.37075053]), pvalue=array([7.84096185e-08]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 4
+
+
+IGD+ mean:  0.910254811900866
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-5.54684071]), pvalue=array([2.90877514e-08]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  1.5663083378403169
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-5.54684071]), pvalue=array([2.90877514e-08]))
+eind_arr and eind_orig are not identical.
+
+Number of objectives: 2
+
+
+IGD+ mean:  1.1674438596362602
+IGD+ Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-5.04372591]), pvalue=array([4.5655317e-07]))
+igd_arr and igd_orig are not identical.
+
+
+Epsilon-indicator mean:  0.9478353152012409
+Epsilon-indicator Wilcoxon rank-sum test:  RanksumsResult(statistic=array([-5.54684071]), pvalue=array([2.90877514e-08]))
+eind_arr and eind_orig are not identical.
