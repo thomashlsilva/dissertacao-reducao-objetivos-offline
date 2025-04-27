@@ -1,0 +1,40 @@
+# Ambiente virtual
+venv/
+
+# Arquivos de dados
+*.csv
+
+# Tabelas em LaTeX
+tables_latex/
+
+# PDFs
+*.pdf
+
+# Repositórios externos/clonados
+scikit-feature-master/
+python_msvc-master/
+
+# Imagens geradas
+img/
+*.png
+
+# Redução de dimensionalidade - Laplacian Score
+reduction_lap_score/*
+!reduction_lap_score/*.py
+
+# Redução de dimensionalidade - PCA
+reduction_pca/*
+!reduction_pca/*.py
+!reduction_pca/eigenvectors/
+
+# Arquivo de script R
+CAP_vis.R
+
+# Configurações de IDEs
+.idea/
+
+# Caches e arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
