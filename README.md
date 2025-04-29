@@ -35,8 +35,7 @@ Este trabalho propõe uma abordagem **híbrida (MOEA + ML)** para otimização m
 ```bibtex  
 @mastersthesis{silva2024,
   author  = {Thomás Henrique Lopes Silva},
-  title   = {Redução de objetivos em MaOPs por meio de aprendizado de máquina não supervisionado: 
-             Uma abordagem com seleção e extração de atributos},
+  title   = {Redução de objetivos em MaOPs por meio de aprendizado de máquina não supervisionado: Uma abordagem com seleção e extração de atributos},
   school  = {Centro Federal de Educação Tecnológica de Minas Gerais},
   year    = {2024},
   address = {Belo Horizonte, Brasil},
