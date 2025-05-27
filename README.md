@@ -39,7 +39,6 @@ Este trabalho propõe uma abordagem **híbrida (MOEA + ML)** para otimização m
   school  = {Centro Federal de Educação Tecnológica de Minas Gerais},
   year    = {2024},
   address = {Belo Horizonte, Brasil},
-  url     = {https://github.com/thomashlsilva/dissertacao-reducao-objetivos-offline},
   note    = {Código e dados disponíveis em: \url{https://github.com/thomashlsilva/dissertacao-reducao-objetivos-offline}}
 }
 ```  
